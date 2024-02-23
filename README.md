@@ -55,7 +55,7 @@ python recovery_batchhsic_fl.py --dataset celeba --priordata celeba --defense re
 ## Reference
 If you find our work helpful in your research, please consider citing:
 ```
-@inproceedings{Di2024ICLR,
+@inproceedings{wu2024FedInverse,
 title={FedInverse: Evaluating Privacy Leakage in Federated Learning},
 author={Wu, Di and Bai, Jun and Song, Yiliao and Chen, Junjun and Zhou, Wei and Xiang, Yong and Sajjanhar, Atul},
 booktitle={The Twelfth International Conference on Learning Representations (ICLR2024)},
